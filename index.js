@@ -12,7 +12,7 @@ import fetch from "node-fetch";
 // import { setupMasqr } from "./Masqr.js";
 import config from "./config.js";
 
-console.log(chalk.yellow("🚀 Starting server..."));
+console.log(chalk.yellow("🚀 Bypassing CCPS restrictions..."));
 
 const __dirname = process.cwd();
 const server = http.createServer();
@@ -139,7 +139,7 @@ server.on("upgrade", (req, socket, head) => {
 });
 
 server.on("listening", () => {
-  console.log(chalk.green(`🌍 Server is running on http://localhost:${PORT}`));
+  console.log(chalk.green(`🐵 Thank you for choosing Sigma Village! Your proxy link is: http://localhost:${PORT}`));
 });
 
 server.listen({ port: PORT });
