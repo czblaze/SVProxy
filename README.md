@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://cdn.discordapp.com/attachments/1310775778601996428/1372319027929812992/in.png?ex=688bdab0&is=688a8930&hm=6293d48ab0e086681985e8a31fe477dc2a8cc0434ea94553b4567dbd74d81179&">
     <p>Unblocking everything since 2025.<p>
-    <p>Interstellar x Sigma Village is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
+    <p>SV Proxy V2 is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
 </div>
 
 ![inpreview](https://github.com/UseInterstellar/Interstellar/assets/89202835/2669efed-5186-4932-83c4-725acae60bd2)
